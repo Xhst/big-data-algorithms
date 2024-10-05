@@ -13,11 +13,11 @@ A huge sequence of objects arrives and a small memory is available, we want to c
 
 $\color{lightgreen}\text{Define:}$ $X_n$ as the value of $X$ after $n$ elements.
 
----
+##
 
 $\color{lightblue}\text{Claim:}$ $E[2^{X_n}] = n + 1$
 
----
+##
 
 $\color{orange}\text{Proof:}$
 
