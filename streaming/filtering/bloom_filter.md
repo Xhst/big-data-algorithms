@@ -30,7 +30,7 @@ $$
 \left(1 - \frac{1}{m}\right)^{k}
 $$
 
-Since $m$ in usally large, we can consider:
+Since $m$ is usally large, we can consider:
 
 $$
 \lim_{m \to \infty} \left(1 - \frac{1}{m}\right)^{k} = \lim_{m \to \infty} \left(\left(1 - \frac{1}{m}\right)^{m}\right)^{k/m} = e^{-k/m}
